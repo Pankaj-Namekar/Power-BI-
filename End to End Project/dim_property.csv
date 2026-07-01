@@ -1,0 +1,81 @@
+listing_id,listing_name,room_type,property_type,accommodates,bedrooms,bathrooms,amenities_count,host_id,location_id,base_price
+L001,Stylish Room,Entire home/apt,Apartment,7,2,1,40,H017,LOC06,310
+L002,Spacious Flat,Entire home/apt,Loft,3,0,2,27,H011,LOC12,557
+L003,Charming Room,Entire home/apt,House,2,1,2.5,48,H046,LOC04,135
+L004,Historic Hideaway,Private room,Townhouse,4,0,2,42,H014,LOC19,95
+L005,Sunny Gem,Entire home/apt,Loft,4,,1,40,H025,LOC18,496
+L006,Stylish Flat,Private room,Condo,9,2,2,45,H041,LOC04,90
+L007,Peaceful Flat,Entire home/apt,Hostel,4,1,2,22,H037,LOC10,373
+L008,Trendy Gem,Entire home/apt,Hostel,1,1,2.5,60,H017,LOC14,217
+L009,Historic Haven,Private room,Loft,2,2,1.5,37,H019,LOC08,134
+L010,Sunny Abode,Hotel room,Studio,6,0,2.5,52,H009,LOC04,197
+L011,Trendy Haven,Hotel room,House,10,2,1,59,H043,LOC17,185
+L012,Sunny Penthouse,Entire home/apt,Studio,5,0,3,15,H018,LOC05,474
+L013,Charming Abode,Entire home/apt,Boutique Hotel,4,1,2,49,H025,LOC04,213
+L014,Spacious Suite,Private room,Guesthouse,9,1,1,46,H009,LOC19,61
+L015,Charming Cottage,Entire home/apt,Hostel,3,3,1.5,16,H045,LOC08,338
+L016,Spacious Abode,Hotel room,Hostel,7,0,3,17,H024,LOC15,397
+L017,Trendy Flat,Entire home/apt,Hostel,1,1,1,32,H041,LOC12,595
+L018,Bright Flat,Entire home/apt,Hostel,5,,1.5,19,H021,LOC20,86
+L019,Bright Flat,Entire home/apt,Townhouse,2,2,1,50,H014,LOC17,594
+L020,Spacious Penthouse,Private room,Guesthouse,9,5,2,39,H004,LOC07,131
+L021,Historic Room,Private room,Guesthouse,5,2,1,16,H035,LOC09,84
+L022,Spacious Flat,Entire home/apt,Boutique Hotel,6,2,1.5,19,H034,LOC02,243
+L023,Charming Hideaway,Private room,Villa,1,1,1.5,51,H024,LOC01,86
+L024,Cozy Abode,Shared room,House,6,4,3,28,H044,LOC20,65
+L025,Peaceful Flat,Entire home/apt,House,9,5,2.5,39,H029,LOC08,125
+L026,Trendy Room,Private room,Hostel,2,1,1,31,H024,LOC03,141
+L027,Trendy Haven,Private room,Townhouse,7,5,2.5,40,H008,LOC01,149
+L028,Cozy Retreat,Entire home/apt,Loft,4,0,1,25,H022,LOC06,314
+L029,Luxury Escape,Private room,Loft,1,1,2,13,H036,LOC06,86
+L030,Historic Gem,Private room,Boutique Hotel,9,4,2.5,36,H003,LOC05,74
+L031,Modern Escape,Entire home/apt,Condo,6,3,1,17,H005,LOC19,205
+L032,Modern Gem,Entire home/apt,House,3,3,1.5,52,H031,LOC14,160
+L033,Trendy Abode,Private room,Villa,9,,2,60,H046,LOC05,86
+L034,Modern Cottage,Entire home/apt,Apartment,3,2,2.5,51,H028,LOC13,241
+L035,Charming Escape,Shared room,House,5,4,2,47,H008,LOC12,56
+L036,Historic Penthouse,Private room,Loft,9,1,3,14,H026,LOC15,134
+L037,Modern Penthouse,Entire home/apt,Boutique Hotel,6,4,1.5,19,H027,LOC01,551
+L038,Historic Cottage,Entire home/apt,Loft,10,2,1.5,22,H044,LOC19,527
+L039,Cozy Penthouse,Entire home/apt,House,8,5,2,29,H013,LOC16,288
+L040,Spacious Room,Entire home/apt,House,3,3,2.5,27,H047,LOC11,173
+L041,Trendy Abode,Entire home/apt,Hostel,1,1,1.5,59,H011,LOC06,165
+L042,Elegant Escape,Shared room,Hostel,6,2,2,50,H032,LOC06,73
+L043,Charming Cottage,Entire home/apt,Hostel,1,0,2.5,26,H014,LOC02,190
+L044,Elegant Retreat,Shared room,Loft,2,0,2,9,H036,LOC08,55
+L045,Sunny Abode,Entire home/apt,Guesthouse,7,,2,9,H034,LOC15,459
+L046,Trendy Retreat,Entire home/apt,Studio,3,0,2,55,H011,LOC08,452
+L047,Elegant Retreat,Entire home/apt,Guesthouse,4,1,2.5,50,H012,LOC08,106
+L048,Modern Abode,Entire home/apt,Villa,4,0,1,25,H021,LOC15,302
+L049,Bright Room,Entire home/apt,Hostel,4,3,2,56,H012,LOC17,456
+L050,Sunny Hideaway,Entire home/apt,Villa,6,3,2.5,12,H021,LOC19,350
+L051,Trendy Hideaway,Private room,Guesthouse,8,1,1,32,H044,LOC13,57
+L052,Trendy Abode,Private room,Guesthouse,10,0,1.5,23,H018,LOC05,132
+L053,Spacious Studio,Entire home/apt,Villa,6,4,1,8,H032,LOC02,273
+L054,Sunny Retreat,Entire home/apt,Loft,10,4,1,55,H002,LOC04,580
+L055,Luxury Studio,Private room,Villa,10,4,1,56,H035,LOC04,113
+L056,Peaceful Haven,Entire home/apt,House,6,0,1,10,H050,LOC03,190
+L057,Sunny Suite,Entire home/apt,Boutique Hotel,1,1,3,37,H025,LOC17,224
+L058,Spacious Room,Entire home/apt,Boutique Hotel,3,1,1.5,11,H020,LOC13,102
+L059,Spacious Escape,Private room,Boutique Hotel,8,,1,8,H009,LOC12,96
+L060,Modern Abode,Entire home/apt,Hostel,4,4,2.5,25,H029,LOC07,306
+L061,Cozy Suite,Private room,Apartment,2,1,1,51,H016,LOC06,94
+L062,Historic Penthouse,Private room,Townhouse,1,1,1,18,H039,LOC15,115
+L063,Sunny Escape,Hotel room,Condo,3,0,2.5,28,H046,LOC18,250
+L064,Stylish Abode,Entire home/apt,Boutique Hotel,2,1,3,12,H028,LOC16,174
+L065,Historic Escape,Entire home/apt,Apartment,2,0,3,56,H031,LOC07,91
+L066,Cozy Studio,Entire home/apt,Guesthouse,9,5,1.5,14,H005,LOC03,189
+L067,Elegant Suite,Private room,Condo,10,2,2,8,H031,LOC04,100
+L068,Trendy Studio,Entire home/apt,Villa,2,1,1,58,H031,LOC04,528
+L069,Cozy Gem,Private room,Loft,3,1,1,30,H048,LOC13,148
+L070,Peaceful Haven,Entire home/apt,Apartment,7,0,2,31,H024,LOC07,576
+L071,Bright Abode,Entire home/apt,Loft,10,2,2,31,H046,LOC17,502
+L072,Peaceful Studio,Private room,Townhouse,4,1,1,41,H019,LOC17,49
+L073,Charming Retreat,Entire home/apt,Apartment,7,4,2.5,28,H020,LOC04,326
+L074,Peaceful Hideaway,Private room,Hostel,9,5,2,36,H024,LOC14,88
+L075,Trendy Gem,Shared room,House,7,1,2,20,H022,LOC12,72
+L076,Elegant Abode,Private room,Condo,6,2,1,48,H001,LOC15,41
+L077,Luxury Abode,Entire home/apt,Guesthouse,6,0,3,39,H030,LOC13,100
+L078,Cozy Penthouse,Hotel room,Apartment,8,2,1,27,H023,LOC10,263
+L079,Historic Retreat,Entire home/apt,Condo,3,3,1,13,H006,LOC04,451
+L080,Peaceful Suite,Private room,Studio,2,1,2,17,H039,LOC02,104

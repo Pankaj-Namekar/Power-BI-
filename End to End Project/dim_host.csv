@@ -1,0 +1,51 @@
+host_id,host_name,host_since,host_response_rate,superhost_flag,host_listings_count
+H001,Sarah Mitchell,24-03-2019,92%,Regular,10
+H002,James Laurent,14-12-2015,100%,Regular,25
+H003,Priya Kapoor,08-09-2016,95%,Regular,24
+H004,Marco Rossi,14-06-2019,0.88,Regular,24
+H005,Nina Patel,10-04-2021,89%,Superhost,23
+H006,Carlos Mendez,03-09-2017,68%,Superhost,23
+H007,Emily Chen,27-12-2019,96%,Regular,5
+H008,,28-04-2020,81%,Superhost,2
+H009,Aisha Hassan,14-11-2017,84%,Superhost,4
+H010,Liam Novak,13-06-2014,76%,Superhost,12
+H011,Fatima Ibrahim,14-06-2015,81%,Superhost,11
+H012,Chen Wang,28-04-2021,81%,Superhost,8
+H013,Yuki Tanaka,24-01-2015,0.69,Superhost,25
+H014,Andre Moreau,28-05-2012,87%,Regular,11
+H015,Isabella Garcia,14-12-2021,94%,Superhost,4
+H016,,20-11-2017,69%,Superhost,8
+H017,Elena Petrov,05-06-2019,67%,Superhost,12
+H018,Raj Sharma,27-10-2019,95%,Regular,5
+H019,Sophie Müller,20-07-2016,76%,Superhost,11
+H020,Kevin O'Brien,22-03-2019,99%,Regular,25
+H021,Amara Diallo,07-06-2014,92%,Regular,22
+H022,Lucas Silva,27-02-2013,66%,Superhost,1
+H023,Mei Zhou,23-08-2014,70%,Superhost,12
+H024,Daniel Kim,07-02-2015,73%,Superhost,8
+H025,Layla Al-Amin,09-10-2019,85%,Regular,17
+H026,Ethan Brooks,14-11-2018,67%,Superhost,3
+H027,Zara Ahmed,09-05-2016,63%,Superhost,19
+H028,Mateus Costa,09-12-2022,88%,Superhost,4
+H029,,07-04-2019,79%,Superhost,6
+H030,Omar Bakr,11-04-2020,77%,Superhost,25
+H031,Chloe Anderson,22-10-2012,89%,Regular,13
+H032,Victor Nguyen,04-02-2022,0.69,Superhost,2
+H033,Nadia Volkov,27-03-2020,68%,Superhost,21
+H034,Sam Taylor,17-02-2021,66%,Superhost,8
+H035,Keiko Yamamoto,26-10-2019,65%,Superhost,6
+H036,Ali Hussain,20-03-2013,61%,Superhost,20
+H037,Grace Williams,21-10-2020,56%,Superhost,20
+H038,Soren Larsen,06-09-2013,89%,Regular,23
+H039,Ayasha Redcloud,04-01-2017,72%,Superhost,1
+H040,Patrick Murphy,04-01-2014,95%,Regular,20
+H041,Rania Mansour,24-10-2022,68%,Superhost,19
+H042,Felix Fischer,07-11-2015,84%,Superhost,6
+H043,Ingrid Eriksson,09-06-2019,84%,Superhost,21
+H044,Kofi Mensah,26-12-2019,68%,Superhost,13
+H045,Valentina Romano,28-08-2021,81%,Superhost,20
+H046,Diego Herrera,06-04-2014,74%,Superhost,13
+H047,Ananya Nair,12-03-2015,84%,Superhost,22
+H048,Pierre Dubois,11-02-2012,98%,Regular,1
+H049,Mia Johnson,14-09-2015,97%,Regular,2
+H050,Tariq Rahman,15-10-2015,90%,Regular,16

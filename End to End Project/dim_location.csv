@@ -1,0 +1,21 @@
+location_id,neighbourhood,city,state,country,latitude,longitude,zipcode
+LOC01,Manhattan,New York,NY,United States,40.7831,-73.9712,10024
+LOC02,Brooklyn,New York,NY,United States,40.6782,-73.9442,11201
+LOC03,Queens,New York,NY,United States,40.7282,-73.7949,11369
+LOC04,Bronx,New York,NY,United States,40.8448,-73.8648,10451
+LOC05,Staten Island,New York,NY,United States,40.5795,-74.1502,10301
+LOC06,Harlem,New York,NY,United States,  40.8116  ,-73.9465,10027
+LOC07,Williamsburg,New York,NY,United States,40.7081,-73.9571,11211
+LOC08,East Village,New York,NY,United States,40.7265,-73.9815,10009
+LOC09,Upper West Side,New York,NY,United States,40.787,-73.9754,10023
+LOC10,Long Island City,New York,NY,United States,40.7447,-73.9485,11101
+LOC11,Astoria,New York,NY,United States,40.7721,-73.9303,11102
+LOC12,Bushwick,New York,NY,United States,40.6944,-73.9213,11221
+LOC13,Park Slope,New York,NY,United States,40.6681,-73.98,11215
+LOC14,Flushing,New York,NY,United States,  40.7675  ,-73.833,11354
+LOC15,Crown Heights,New York,NY,United States,40.6681,-73.9442,11213
+LOC16,Bed-Stuy,New York,NY,United States,40.6872,-73.9418,11221
+LOC17,Chelsea,New York,NY,United States,40.7465,-74.0014,10001
+LOC18,Midtown,New York,NY,United States,40.7549,-73.984,10036
+LOC19,Lower East Side,New York,NY,United States,40.7157,-73.9863,10002
+LOC20,DUMBO,New York,NY,United States,40.7033,-73.9881,11201
