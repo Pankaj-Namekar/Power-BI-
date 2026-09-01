@@ -9,7 +9,7 @@ Full case studies that go beyond a single dashboard: business requirements, data
 * Hospitality-Airbnb Project/: BRD, data dictionary, custom Power BI theme, and a star-schema model (dim_date, dim_host, dim_location, dim_property, fact_bookings).
 * Ecomm-Walmart Project/: BRD, developer guidelines, and a star-schema retail analytics model.
 
-### Power BI Advance Visualization/SVG/
+### Power BI Advance Visualization/
 Custom SVG-based visuals for Power BI, used to build KPI cards and status indicators beyond the native visual library.
 
 ### Standalone Reports/
