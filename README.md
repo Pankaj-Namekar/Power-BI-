@@ -2,22 +2,20 @@
 
 A collection of Power BI dashboards, reusable visuals, and full end-to-end business intelligence case studies, built as hands-on companion projects for the [Data With Pankaj](https://youtube.com/@datawithpankaj_com) YouTube channel.
 
-## What's inside
+## Repository structure
 
-### End to End Project
-Full case studies that go beyond a single dashboard: business requirements, data dictionary, star-schema data model, branding, and the final report.
-* Airbnb Project: BRD, data dictionary, custom Power BI theme, and a star-schema model (dim_date, dim_host, dim_location, dim_property, fact_bookings).
-* Walmart Project: end-to-end retail analytics case study.
+### End to End Project/
+Full case studies that go beyond a single dashboard: business requirements, data dictionary, star-schema data model, branding, and the final report. See its README for details.
+* Airbnb Project/: BRD, data dictionary, custom Power BI theme, and a star-schema model (dim_date, dim_host, dim_location, dim_property, fact_bookings).
+* Walmart Project/: BRD, developer guidelines, and a star-schema retail analytics model.
 
-### SVG
+### SVG/
 Custom SVG-based visuals for Power BI, used to build KPI cards and status indicators beyond the native visual library.
 
-### Standalone reports & templates
-* KPI: reusable KPI card patterns.
-* SVG_Status Pill.pbix: a custom SVG status pill visual.
-* Waterfalls using Visual calculations.pbix: waterfall charts built with Power BI's visual calculations.
-* MOM Comparision with CF.pbix: month-over-month comparison using custom formatting.
-* LinkedIn-Report.pbit: a LinkedIn analytics report template.
+### Standalone Reports/
+Standalone reports and templates that aren't part of a full case study: a LinkedIn analytics template, a month-over-month comparison report, and a waterfall chart report.
+
+Each folder has its own README with more detail.
 
 ## Tools used
 Power BI Desktop, DAX, Power Query, and custom SVG measures.
