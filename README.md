@@ -4,12 +4,12 @@ A collection of Power BI dashboards, reusable visuals, and full end-to-end busin
 
 ## Repository structure
 
-### End to End Project/
+### Power BI End to End Project/
 Full case studies that go beyond a single dashboard: business requirements, data dictionary, star-schema data model, branding, and the final report. See its README for details.
-* Airbnb Project/: BRD, data dictionary, custom Power BI theme, and a star-schema model (dim_date, dim_host, dim_location, dim_property, fact_bookings).
-* Walmart Project/: BRD, developer guidelines, and a star-schema retail analytics model.
+* Hospitality-Airbnb Project/: BRD, data dictionary, custom Power BI theme, and a star-schema model (dim_date, dim_host, dim_location, dim_property, fact_bookings).
+* Ecomm-Walmart Project/: BRD, developer guidelines, and a star-schema retail analytics model.
 
-### SVG/
+### Power BI Advance Visualization/SVG/
 Custom SVG-based visuals for Power BI, used to build KPI cards and status indicators beyond the native visual library.
 
 ### Standalone Reports/
