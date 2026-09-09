@@ -2,6 +2,12 @@
 
 An end-to-end Power BI case study modeled on Walmart-style retail sales data.
 
+## Report Preview
+
+[![Walmart Sales Performance Report](Walmart%20Sales%20Analysis.png)](https://app.powerbi.com/view?r=eyJrIjoiOWExN2Y3YzMtN2E5Ny00ZmE3LTk3MjQtZTU2YzZlNDRmNDQ3IiwidCI6ImMzOTczYTQ5LWE2ZjQtNDBkMC04YjUwLTRjNDBmZjRlYWJjMiJ9)
+
+**[View the live interactive Power BI report](https://app.powerbi.com/view?r=eyJrIjoiOWExN2Y3YzMtN2E5Ny00ZmE3LTk3MjQtZTU2YzZlNDRmNDQ3IiwidCI6ImMzOTczYTQ5LWE2ZjQtNDBkMC04YjUwLTRjNDBmZjRlYWJjMiJ9)**
+
 ## Contents
 * Walmart_BRD.pdf: business requirements document defining the scope and goals of the analysis.
 * Walmart_BI_Developer_Guidelines.pptx: development standards and conventions used to build the report.
