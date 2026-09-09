@@ -19,3 +19,12 @@ An end-to-end Power BI case study modeled on Airbnb-style listing and booking da
 3. Apply Airbnb_PowerBI_Theme.json for consistent styling.
 
 The finished report lives at Power BI End to End Project/End to End Project.pbix.
+
+
+## Dashboard preview
+
+![Airbnb Executive Overview dashboard](Airbnb_Executive_Overview.png)
+
+## Live report
+
+View the interactive live report here: https://app.powerbi.com/view?r=eyJrIjoiZjkzZjZhNDctZDRmOS00ZGEwLWE2YjEtODNlYzY1MWNjOTEzIiwidCI6ImMzOTczYTQ5LWE2ZjQtNDBkMC04YjUwLTRjNDBmZjRlYWJjMiJ9
