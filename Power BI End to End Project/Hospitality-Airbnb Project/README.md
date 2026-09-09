@@ -27,4 +27,4 @@ The finished report lives at Power BI End to End Project/End to End Project.pbix
 
 ## Live report
 
-View the interactive live report here: https://app.powerbi.com/view?r=eyJrIjoiZjkzZjZhNDctZDRmOS00ZGEwLWE2YjEtODNlYzY1MWNjOTEzIiwidCI6ImMzOTczYTQ5LWE2ZjQtNDBkMC04YjUwLTRjNDBmZjRlYWJjMiJ9
+[View the interactive live report here](https://app.powerbi.com/view?r=eyJrIjoiZjkzZjZhNDctZDRmOS00ZGEwLWE2YjEtODNlYzY1MWNjOTEzIiwidCI6ImMzOTczYTQ5LWE2ZjQtNDBkMC04YjUwLTRjNDBmZjRlYWJjMiJ9)
