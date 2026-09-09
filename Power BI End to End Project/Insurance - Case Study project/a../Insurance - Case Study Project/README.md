@@ -1,4 +1,4 @@
-# Insurance - Case Study project
+# Insurance - Case Study Project
 
 An end-to-end Power BI case study built for a Customer Insights Analyst assignment, analyzing customer, policy, and claims data for Allianz, a global insurance company.
 
