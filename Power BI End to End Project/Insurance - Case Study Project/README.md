@@ -2,6 +2,12 @@
 
 An end-to-end Power BI case study built for a Customer Insights Analyst assignment, analyzing customer, policy, and claims data for Allianz, a global insurance company.
 
+## Preview
+
+![Insurance Policy Analysis](Insurance%20Policy%20Analysis.png)
+
+🔗 **[View the live interactive report on Power BI](https://app.powerbi.com/view?r=eyJrIjoiNjNjYWQ2YWUtOGNlYy00M2NjLWEyYTUtOWQzMjE1MWJlYmM3IiwidCI6ImMzOTczYTQ5LWE2ZjQtNDBkMC04YjUwLTRjNDBmZjRlYWJjMiJ9)**
+
 ## Contents
 - `Case Study Assignment - Customer Insights Analyst.docx`: the original assignment brief defining the business background, dataset, tasks, and evaluation criteria.
 - `Case Study Report - Pankaj Namekar.pdf`: an annotated walkthrough of the finished report pages (KPI Summary, Customer, Claims) with a UI/navigation guide.
