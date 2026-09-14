@@ -1,0 +1,61 @@
+StoreKey	StoreID	StoreName	City	StateProvince	Country	Region	StoreType	OpenDate	Manager
+1	S001	Pune Mall	Pune	Maharashtra	India	APAC	Standard	28-01-2023	Daniel Clark
+2	S002	Sydney Mall	Sydney	New South Wales	Australia	APAC	Flagship	07-03-2021	James Clark
+3	S003	  MUMBAI CENTRAL	Mumbai	Maharashtra	India	APAC	Online Hub	2019-09-27	Sai Nair
+4	S004	Pune Central	Pune	Maharashtra	India	APAC	Outlet	2021-02-19	Navya Davis
+5	S005	Los Angeles Plaza	Los Angeles	California	United States	AMER	Online Hub	2019-09-06	Mia Miller
+6	S006	Delhi Plaza	Delhi	Delhi	India	APAC	Outlet	2021-04-29	Sai Jones
+7	S007	  LONDON SQUARE	London	England	United Kingdom	EMEA	Flagship	2021-07-11	Riya Smith
+8	S008	  MANCHESTER JUNCTION	Manchester	England	United Kingdom	EMEA	Standard	2022-07-13	Daniel Patel
+9	S009	Chennai Square	Chennai	Tamil Nadu	India	APAC	Outlet	2019-12-09	Olivia Jones
+10	S010	London Square	London	England	United Kingdom	EMEA	Online Hub	2021-07-20	Ava Johnson
+11	S011	Munich Square	Munich	Bavaria	Germany	EMEA	Online Hub	2020-05-12	Ava Singh
+12	S012	Munich Square	Munich	Bavaria	Germany	EMEA	Flagship	2021-06-29	Grace Johnson
+13	S013	Pune Central	Pune	Maharashtra	India	APAC	Outlet	07/11/2023	Krishna Clark
+14	S014	Manchester Plaza	Manchester	England	United Kingdom	EMEA	Outlet	2022-07-27	James Iyer
+15	S015	  DELHI SQUARE	Delhi	Delhi	India	APAC	Outlet	2022-12-22	Ishaan Mehta
+16	S016	Melbourne Junction	Melbourne	Victoria	Australia	APAC	Online Hub	2019-10-27	Harper Reddy
+17	S017	Melbourne Junction	Melbourne	Victoria	Australia	APAC	Online Hub	08/29/2022	Rohan Jones
+18	S018	Vancouver Plaza	Vancouver	British Columbia	Canada	AMER	Outlet	2023-01-22	Rohan Iyer
+19	S019	Mumbai Square	Mumbai	Maharashtra	India	APAC	Flagship	2022-04-18	Grace Johnson
+20	S020	Bengaluru Square	Bengaluru	Karnataka	India	APAC	Standard	2022-09-24	Ryan Wilson
+21	S021	Berlin Mall	Berlin	Berlin	Germany	EMEA	Online Hub	2019-11-09	Navya Verma
+22	S022	Bengaluru Square	Bengaluru	Karnataka	India	APAC	Online Hub	2022-07-24	Krishna Mehta
+23	S023	Manchester Square	Manchester	England	United Kingdom	EMEA	Standard	2022-12-10	Chloe Verma
+24	S024	  CHICAGO MALL	Chicago	Illinois	United States	AMER	Flagship	07/27/2020	Anika Khan
+25	S025	Bengaluru Mall	Bengaluru	Karnataka	India	APAC	Flagship	07/06/2021	Alex Nair
+26	S026	Chicago Mall	Chicago	Illinois	United States	AMER	Flagship	2021-04-28	Arjun Gupta
+27	S027	Chennai Junction	Chennai	Tamil Nadu	India	APAC	Outlet	2020-01-20	Vivaan Brown
+28	S028	Vancouver Plaza	Vancouver	British Columbia	Canada	AMER	Outlet	2020-03-03	Emma Davis
+29	S029	Munich Plaza	Munich	Bavaria	Germany	EMEA	Outlet	05-11-2020	Krishna Mehta
+30	S030	Vancouver Mall	Vancouver	British Columbia	Canada	AMER	Online Hub	2020-02-05	Reyansh Smith
+31	S031	Delhi Plaza	Delhi	Delhi	India	APAC	Standard	19-08-2021	Ethan Lewis
+32	S032	Berlin Plaza	Berlin	Berlin	Germany	EMEA	Outlet	20-11-2019	Mia Davis
+33	S033	New York Plaza	New York	New York	United States	AMER	Flagship	09/21/2019	Mason Clark
+34	S034	Melbourne Mall	Melbourne	Victoria	Australia	APAC	Online Hub	2022-02-17	Arjun Khan
+35	S035	  TORONTO PLAZA	Toronto	Ontario	Canada	AMER	Online Hub	2020-08-27	Sophia Lewis
+36	S036	Manchester Mall	Manchester	England	United Kingdom	EMEA	Standard	02/23/2021	Alex Clark
+37	S037	  VANCOUVER JUNCTION	Vancouver	British Columbia	Canada	AMER	Online Hub	2020-12-25	Anika Patel
+38	S038	  BERLIN JUNCTION	Berlin	Berlin	Germany	EMEA	Standard	07/03/2021	James Brown
+39	S039	Bengaluru Central	Bengaluru	Karnataka	India	APAC	Flagship	2021-06-26	Sophia Reddy
+40	S040	Los Angeles Square	Los Angeles	California	United States	AMER	Outlet	03/10/2020	Lucas Williams
+41	S041	Hyderabad Junction	Hyderabad	Telangana	India	APAC	Standard	2019-09-04	Ava Wilson
+42	S042	Dallas Mall	Dallas	Texas	United States	AMER	Online Hub	2021-05-27	Harper Johnson
+43	S043	  CHENNAI SQUARE	Chennai	Tamil Nadu	India	APAC	Online Hub	2021-11-18	Saanvi Williams
+44	S044	Munich Junction	Munich	Bavaria	Germany	EMEA	Flagship	2022-09-04	Arjun Sharma
+45	S045	Pune Square	Pune	Maharashtra	India	APAC	Flagship	2020-06-10	Ryan Verma
+46	S046	Toronto Mall	Toronto	Ontario	Canada	AMER	Flagship	2019-12-30	Saanvi Wilson
+47	S047	Berlin Mall	Berlin	Berlin	Germany	EMEA	Flagship	03-01-2022	Krishna Gupta
+48	S048	Vancouver Central	Vancouver	British Columbia	Canada	AMER	Flagship	2023-03-15	Navya Johnson
+49	S049	London Mall	London	England	United Kingdom	EMEA	Outlet	2020-08-08	Navya Williams
+50	S050	Hyderabad Mall	Hyderabad	Telangana	India	APAC	Flagship	2020-01-02	Reyansh Brown
+51	S051	Toronto Square	Toronto	Ontario	Canada	AMER	Online Hub	03/30/2021	Myra Khan
+52	S052	New York Plaza	New York	New York	United States	AMER	Flagship	11-11-2021	Harper Reddy
+53	S053	Dallas Mall	Dallas	Texas	United States	AMER	Standard	09-02-2022	Noah Reddy
+54	S054	Toronto Mall	Toronto	Ontario	Canada	AMER	Flagship	2020-02-10	Navya Sharma
+55	S055	Chicago Central	Chicago	Illinois	United States	AMER	Online Hub	2022-03-28	James Smith
+56	S056	Sydney Plaza	Sydney	New South Wales	Australia	APAC	Flagship	2021-01-04	Navya Iyer
+57	S057	Bengaluru Mall	Bengaluru	Karnataka	India	APAC	Outlet	2019-10-15	Harper Mehta
+58	S058	New York Plaza	New York	New York	United States	AMER	Flagship	2023-04-12	Amelia Singh
+59	S059	Vancouver Central	Vancouver	British Columbia	Canada	AMER	Standard	2021-10-06	Pari Iyer
+60	S060	Sydney Central	Sydney	New South Wales	Australia	APAC	Online Hub	11/11/2020	Vivaan Reddy
