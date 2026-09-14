@@ -1,0 +1,73 @@
+{
+  "$schema": "https://raw.githubusercontent.com/microsoft/powerbi-desktop-samples/main/Report%20Theme%20JSON%20Schema/reportThemeSchema-2.141.json",
+  "name": "NovaMart",
+  "dataColors": [
+    "#1E2A5E",
+    "#FF6B4A",
+    "#FFB627",
+    "#2BB673",
+    "#2F9BE0",
+    "#8B5CF6",
+    "#E85D75",
+    "#5B6178"
+  ],
+  "background": "#FFFFFF",
+  "foreground": "#14162B",
+  "tableAccent": "#1E2A5E",
+  "backgroundLight": "#EEF0F7",
+  "foregroundLight": "#5B6178",
+  "backgroundNeutral": "#EEF0F7",
+  "foregroundNeutralSecondary": "#8A90A6",
+  "foregroundNeutralTertiary": "#C3C7D6",
+  "good": "#2BB673",
+  "neutral": "#FFB627",
+  "bad": "#E85D75",
+  "maximum": "#1E2A5E",
+  "center": "#FFB627",
+  "minimum": "#EEF0F7",
+  "null": "#C3C7D6",
+  "textClasses": {
+    "callout": { "fontFace": "Poppins", "fontSize": 32, "color": "#1E2A5E" },
+    "title": { "fontFace": "Poppins", "fontSize": 14, "color": "#14162B" },
+    "header": { "fontFace": "Poppins Medium", "fontSize": 12, "color": "#14162B" },
+    "label": { "fontFace": "Inter", "fontSize": 10, "color": "#5B6178" }
+  },
+  "visualStyles": {
+    "*": {
+      "*": {
+        "background": [{ "show": false }],
+        "border": [{ "show": false }],
+        "outspacePane": [{ "backgroundColor": { "solid": { "color": "#EEF0F7" } } }]
+      }
+    },
+    "card": {
+      "*": {
+        "labels": [{ "color": { "solid": { "color": "#1E2A5E" } }, "fontFace": "Poppins", "fontSize": 28 }],
+        "categoryLabels": [{ "color": { "solid": { "color": "#5B6178" } }, "fontFace": "Inter", "fontSize": 11 }]
+      }
+    },
+    "multiRowCard": {
+      "*": { "card": [{ "outlineColor": { "solid": { "color": "#EEF0F7" } }, "outlineWeight": 1 }] }
+    },
+    "slicer": {
+      "*": {
+        "items": [{ "fontColor": { "solid": { "color": "#14162B" } }, "background": { "solid": { "color": "#FFFFFF" } } }],
+        "header": [{ "fontColor": { "solid": { "color": "#1E2A5E" } }, "background": { "solid": { "color": "#EEF0F7" } }, "border": true }]
+      }
+    },
+    "tableEx": {
+      "*": {
+        "grid": [{ "gridVertical": false, "rowPadding": 6 }],
+        "columnHeaders": [{ "fontColor": { "solid": { "color": "#FFFFFF" } }, "backColor": { "solid": { "color": "#1E2A5E" } }, "fontFace": "Poppins Medium" }],
+        "values": [{ "fontColor": { "solid": { "color": "#14162B" } }, "backColor": { "solid": { "color": "#FFFFFF" } }, "fontFace": "Inter", "alternateBackColor": { "solid": { "color": "#F7F8FC" } } }],
+        "total": [{ "fontColor": { "solid": { "color": "#1E2A5E" } }, "backColor": { "solid": { "color": "#EEF0F7" } } }]
+      }
+    },
+    "pivotTable": {
+      "*": {
+        "columnHeaders": [{ "fontColor": { "solid": { "color": "#FFFFFF" } }, "backColor": { "solid": { "color": "#1E2A5E" } } }],
+        "values": [{ "fontColor": { "solid": { "color": "#14162B" } }, "backColor": { "solid": { "color": "#FFFFFF" } } }]
+      }
+    }
+  }
+}
